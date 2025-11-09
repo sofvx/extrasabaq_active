@@ -21,6 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <meta name="google-site-verification" content="nv8Pa30ghcgbPUYAJ_WLJxv_TnLUJrJa3BLVYVNywi0" />
         <style>{`
 html {
   font-family: ${GeistSans.style.fontFamily};
