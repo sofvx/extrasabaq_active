@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: 'v0 App',
   description: 'Created with v0',
   generator: 'v0.app',
+  other: {
+    'google-site-verification': 'nv8Pa30ghcgbPUYAJ_WLJxv_TnLUJrJa3BLVYVNywi0',
+  },
 }
 
 export default function RootLayout({
